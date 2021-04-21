@@ -1,0 +1,6 @@
+2020-03-11 23:55:30 - PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\xampp\htdocs\topgirl\catalog\controller\extension\module\instagram.php on line 141
+2020-03-11 23:55:30 - PHP Warning:  file_get_contents(https://api.instagram.com/v1/users/self/media/recent/?access_token=13230689000.1677ed0.303e777744564b47986ec11e749a358a&amp;count=50): failed to open stream: php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\xampp\htdocs\topgirl\catalog\controller\extension\module\instagram.php on line 141
+2020-03-11 23:55:30 - 
+2020-03-11 23:55:33 - PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\xampp\htdocs\topgirl\catalog\controller\extension\module\instagram.php on line 141
+2020-03-11 23:55:33 - PHP Warning:  file_get_contents(https://api.instagram.com/v1/users/self/media/recent/?access_token=13230689000.1677ed0.303e777744564b47986ec11e749a358a&amp;count=50): failed to open stream: php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\xampp\htdocs\topgirl\catalog\controller\extension\module\instagram.php on line 141
+2020-03-11 23:55:33 - 
